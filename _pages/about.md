@@ -22,3 +22,26 @@ Internship
 
 Selected Publication
 ======
+- **Surgical-lvlm: Learning to adapt large vision-language model for grounded visual question answering in robotic surgery**
+  G Wang, L Bai, WJ Nah, J Wang, **Z Zhang**, Z Chen, J Wu, M Islam, H Liu, et al.
+  *ICLR 2024* &nbsp; ![citations](https://img.shields.io/badge/cited%20by-52-blue)
+
+- **A survey of uncertainty estimation in llms: Theory meets practice**
+  HY Huang, Y Yang, **Z Zhang**, S Lee, Y Wu
+  *arXiv preprint arXiv:2410.15326* &nbsp; ![citations](https://img.shields.io/badge/cited%20by-48-blue)
+
+- **No free lunch: Rethinking internal feedback for llm reasoning**
+  Y Zhang, **Z Zhang**, H Guan, Y Cheng, Y Duan, C Wang, Y Wang, S Zheng, et al.
+  *arXiv preprint arXiv:2506.17219* &nbsp; ![citations](https://img.shields.io/badge/cited%20by-23-blue)
+
+- **3DM: Distill, Dynamic Drop, and Merge for Debiasing Multi-modal Large Language Models**
+  **Z Zhang**, S Lee, Z Wang, Y Wu
+  *ACL 2025*, 14049-14059
+
+- **One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents**
+  **Z Zhang**, Y Duan, Y Zhang, Y Xu, Z Wang, K Liang, Y Li, J Liang, D Xia, et al.
+  *arXiv preprint arXiv:2512.20957*
+
+- **Transferring Knowledge from High-Quality to Low-Quality MRI for Adult Glioma Diagnosis**
+  Y Zhao, L Bai, **Z Zhang**, Y Wu, M Islam, H Ren
+  *MICCAI 2024*
