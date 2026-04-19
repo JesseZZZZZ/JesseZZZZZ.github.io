@@ -30,6 +30,7 @@ Selected Publication
 - **One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents**
 
   **Z Zhang**, Y Duan, Y Zhang, Y Xu, Z Wang, K Liang, Y Li, J Liang, D Xia, et al.
+  
   *arXiv preprint arXiv:2512.20957*
 
 - **No free lunch: Rethinking internal feedback for llm reasoning**
