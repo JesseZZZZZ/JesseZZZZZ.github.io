@@ -27,11 +27,17 @@ Internship
 Selected Publication
 ======
 
+- **RepoZero: Can LLMs Generate a Code Repository from Scratch?**
+
+  **Zhaoxi Zhang**, Yiming Xu, Weikang Li, Jiahui Liang, Yunfang Wu.
+
+  *arXiv preprint arXiv:2605.07122*
+
 - **One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents**
 
   **Zhaoxi Zhang**, Yitong Duan, Yanzhi Zhang, Yiming Xu, Zhixiang Wang, Kun Liang, Weikang Li, Jiahui Liang, Deguo Xia, Jizhou Huang, Jiyan He, Shuxin Zheng, Yunfang Wu.
 
-  *arXiv preprint arXiv:2512.20957*
+  *ICML 2026*
 
 - **No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**
 
