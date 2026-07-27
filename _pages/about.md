@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my homepage! I am **Zhaoxi Zhang**, a first-year MPhil student at the [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Yunfang Wu](https://scholar.google.com/citations?user=d1YlKkAAAAAJ&hl=en&oi=ao). My research interests span NLP and large language models. I have worked on **model merging**, **reinforcement learning**, and **multi-agent systems**. My current research focuses on training LLMs for complex agentic tasks — including reinforcement learning, on-policy distillation, and SFT — as well as developing rigorous benchmarks to evaluate LLMs' agentic capabilities.
+Hi, welcome to my homepage! I am **Zhaoxi Zhang**, a second-year MPhil student at the [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Yunfang Wu](https://scholar.google.com/citations?user=d1YlKkAAAAAJ&hl=en&oi=ao). My research interests span NLP and large language models. I have worked on **model merging**, **reinforcement learning**, and **multi-agent systems**. My current research focuses on training LLMs for complex agentic tasks — including reinforcement learning, on-policy distillation, and SFT — as well as developing rigorous benchmarks to evaluate LLMs' agentic capabilities.
 
 I firmly believe that LLMs can be substantially enhanced through effective interaction with external environments. Toward this goal, I am working on building such environments and developing RL algorithms to strengthen this capability.
 
-🌟 **I am seeking a research internship starting July 2026, and PhD positions for fall 2028.** I welcome connections with researchers across all areas and institutions — feel free to reach out anytime!
 
 Education
 ======
