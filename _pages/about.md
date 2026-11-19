@@ -26,6 +26,12 @@ Internship
 Selected Publication
 ======
 
+- **BBox DocVQA: A Large Scale Bounding Box Grounded Dataset for Enhancing Reasoning in Document Visual Question Answer**
+
+  Wenhan Yu\*, **Zhaoxi Zhang**\*, Wang Chen, Guanqiang Qi, Weikang Li, Yang Li, Lei Sha, Deguo Xia, Jizhou Huang.
+
+  *KDD 2027 (Accepted)* (\* Equal contribution; co-first authors)
+
 - **RepoZero: Can LLMs Generate a Code Repository from Scratch?**
 
   **Zhaoxi Zhang**, Yiming Xu, Weikang Li, Jiahui Liang, Yunfang Wu.
