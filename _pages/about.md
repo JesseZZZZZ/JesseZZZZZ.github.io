@@ -30,7 +30,7 @@ Selected Publication
 
   **Zhaoxi Zhang**, Yiming Xu, Weikang Li, Jiahui Liang, Yunfang Wu.
 
-  *arXiv preprint arXiv:2605.07122*
+  *NeurIPS 2026 (E&D Track)*
 
 - **One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents**
 
