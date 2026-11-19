@@ -30,7 +30,7 @@ Selected Publication
 
   Wenhan Yu\*, **Zhaoxi Zhang**\*, Wang Chen, Guanqiang Qi, Weikang Li, Yang Li, Lei Sha, Deguo Xia, Jizhou Huang.
 
-  *KDD 2027 (Accepted)* (\* Equal contribution; co-first authors)
+  *KDD 2027*
 
 - **RepoZero: Can LLMs Generate a Code Repository from Scratch?**
 
